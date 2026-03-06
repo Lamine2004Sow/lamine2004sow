@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on — Ring-Star Problem optimization (combining p-median & TSP) using heuristics, metaheuristics, and MILP formulations in Python<br>
 🤝 I'm looking to collaborate on — ML Engineering projects, Operations Research problems, or anything at the intersection of combinatorial optimization and data science<br>
-🐱 I'm looking for help with — Internship opportunities (2–3 months) in ML Engineering / Operations Research<br>
+🐱 I'm looking for help with — Internship opportunities (6 months) in ML Engineering / Operations Research<br>
 🌱 I'm currently learning — Advanced deep learning (PyTorch, TensorFlow), reinforcement learning (Q-learning, SARSA), and large-scale optimization solvers (CPLEX, OR-Tools)<br>
 💬 Ask me about — Python for data science & optimization, graph algorithms, linear programming, machine learning pipelines, or surviving MPSI prep school 😄<br>
 ⚡ Fun fact — I went from MPSI prep school in Dakar, Senegal 🇸🇳 to engineering school at Sup Galilée, Paris 🇫🇷 — and I'm now solving NP-hard transport problems for fun!
