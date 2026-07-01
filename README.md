@@ -1,27 +1,29 @@
 # Hi, I'm Lamine Sow 👋
 
-I am passionate about **Machine Learning**, **Artificial Intelligence**, **Optimization**, and **Cloud-based deployment**.
+I am passionate about **Machine Learning**, **Natural Language Processing**, **Computer Vision**, **Optimization**, and **Cloud-based deployment**.
 
-I enjoy building intelligent systems that go beyond simple experimentation: from data preprocessing and model training to optimization, API integration, and deployment in the cloud.
+I enjoy building intelligent systems that connect data, models, algorithms, APIs, and deployment. My goal is to develop practical solutions that go beyond experimentation, from data preprocessing and model training to optimization, API integration, and cloud deployment.
 
 ---
 
 ## 🚀 Main Interests
 
 * Machine Learning
-* Artificial Intelligence
+* Natural Language Processing
+* Computer Vision
 * Optimization and Operations Research
-* Cloud Deployment
 * MLOps
+* Cloud Deployment
 * Data-driven decision systems
-* AI-powered applications
+* AI-powered web applications
 
 ---
 
 ## 🧠 What I Like Building
 
 * Predictive Machine Learning models
-* AI applications connected to real-world use cases
+* NLP applications for text classification, sentiment analysis, and information extraction
+* Computer Vision systems for image classification, detection, and visual understanding
 * Optimization models for decision-making
 * APIs for serving trained models
 * Cloud-deployed ML applications
@@ -31,13 +33,18 @@ I enjoy building intelligent systems that go beyond simple experimentation: from
 
 ## 🛠️ Core Tech Stack
 
-### Machine Learning & AI
+### Machine Learning & Data
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+### NLP & Computer Vision
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
@@ -45,13 +52,12 @@ I enjoy building intelligent systems that go beyond simple experimentation: from
 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge\&logo=julia\&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge\&logo=octave\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge\&logo=latex\&logoColor=white)
 
 ### Cloud, MLOps & Deployment
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 
@@ -79,17 +85,25 @@ I enjoy building intelligent systems that go beyond simple experimentation: from
 
 ## 📌 Project Areas
 
-### Machine Learning & AI
+### Machine Learning
 
-I work on projects involving prediction, classification, regression, recommendation, and intelligent decision-making.
+I work on projects involving prediction, classification, regression, recommendation, and data-driven decision-making.
+
+### Natural Language Processing
+
+I am interested in NLP tasks such as text classification, sentiment analysis, document processing, information extraction, and question answering.
+
+### Computer Vision
+
+I am interested in Computer Vision applications such as image classification, object detection, image understanding, and multimodal systems combining images and text.
 
 ### Optimization
 
 I am interested in optimization problems such as resource allocation, scheduling, portfolio selection, routing, and decision-support systems.
 
-### Cloud & Deployment
+### Cloud & MLOps
 
-I like building projects that can be used outside notebooks through APIs, dashboards, and cloud deployment.
+I like building projects that can be used outside notebooks through APIs, dashboards, model serving, and cloud deployment.
 
 Typical workflow:
 
@@ -111,6 +125,41 @@ Cloud deployment
 
 ---
 
+## 🧩 Preferred Project Architecture
+
+I like building end-to-end projects that combine **classification**, **optimization**, and **deployment**.
+
+My preferred workflow is:
+
+```text
+Business Problem
+   ↓
+Dataset Collection
+   ↓
+Data Preprocessing
+   ↓
+Feature Engineering
+   ↓
+Classification Model
+   ↓
+Prediction / Risk Score
+   ↓
+Operations Research Optimization
+   ↓
+Decision Recommendation
+   ↓
+API
+   ↓
+Cloud Deployment
+```
+
+Example use cases:
+
+* Predicting whether an event will happen, then optimizing the best decision to take.
+* Classifying customers, products, risks, or situations, then using optimization to allocate resources.
+* Building decision-support systems that transform Machine Learning predictions into operational actions.
+---
+
 ## 📊 GitHub Stats
 
 ![Lamine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lamine2004Sow\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
@@ -123,8 +172,8 @@ Cloud deployment
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mouhamadou-lamine-sow-118097334/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lamine.2004pro.sow@gmail.com)
 
 ---
 
